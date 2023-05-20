@@ -199,7 +199,7 @@ npm start
 ```
 cd investool
 
-./investool
+./investool webserver
 ```
 
 ## No-code operation (TODO)
