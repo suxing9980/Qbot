@@ -56,7 +56,7 @@
 
   ***不建议 fork 项目，本项目会持续更新，只 fork 看不到更新，建议 Star ⭐️ ~***
 
-  <i>喜欢这个项目吗？请考虑[ ❤️赞助](#sponsors--support)本项目，以帮助改进！</i>
+  <i>喜欢这个项目吗？请考虑[ ❤️赞助](#sponsors--support) 本项目，以帮助改进！</i>
 
 </div>
 
@@ -380,14 +380,7 @@ Results and models are available in the [model zoo](docs/03-智能策略/model_z
 
 ## 策略原理及源码分析
 
-<p>
-  <a href="https://ufund-me.github.io/Qbot/#/">
-    <i><font size="4">在线文档</font></i>
-  </a>
-  <a href="pytrader/strategies/notebook">
-    <i><font size="4">jupyter notebook</font></i>
-  </a>
-</p>
+[在线文档](https://ufund-me.github.io/Qbot/#/) | [❓ 常见问题](https://ufund-me.github.io/Qbot/#/04-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/FQA) | [Jupyter Notebook](./pytrader/strategies/notebook)
 
 ## Quantstats Report
 

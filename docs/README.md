@@ -62,7 +62,7 @@
 
   ***不建议 fork 项目，本项目会持续更新，只 fork 看不到更新，建议 Star ⭐️ ~***
 
-  <i>喜欢这个项目吗？请考虑 ❤️赞助本项目 以帮助改进！</i>
+  <i>喜欢这个项目吗？请考虑[ ❤️赞助](#sponsors--support) 本项目，以帮助改进！</i>
 
 </div>
 
@@ -386,14 +386,9 @@ Results and models are available in the [model zoo](03-智能策略/model_zoo). 
 
 ## 策略原理及源码分析
 
-<p>
-  <a href="https://ufund-me.github.io/Qbot/#/">
-    <i><font size="4">在线文档</font></i>
-  </a>
-  <a href="pytrader/strategies/notebook">
-    <i><font size="4">jupyter notebook</font></i>
-  </a>
-</p>
+[在线文档](https://ufund-me.github.io/Qbot/#/) | [❓ 常见问题](https://ufund-me.github.io/Qbot/#/04-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/FQA) | [Jupyter Notebook](./pytrader/strategies/notebook)
+
+
 
 ## Quantstats Report
 
@@ -416,27 +411,27 @@ cerebro.broker.setcommission(commission=0.001)
     
 A股回测MACD策略:
 
-![MACD](pytrader/doc/02.easy_macd_strategy/Figure_macd.png)
+![MACD](https://raw.githubusercontent.com/UFund-Me/Qbot/main/pytrader/doc/02.easy_macd_strategy/Figure_macd.png)
 
 ![image](https://github.com/UFund-Me/Qbot/assets/29084184/dfef65ba-0d32-4f5f-b413-d6ec02fc700e)
 
-👉 点击[查看](pytrader/doc/02.easy_macd_strategy/macd.py)源码
+👉 点击[查看](https://github.com/UFund-Me/Qbot/blob/main/pytrader/doc/02.easy_macd_strategy/macd.py)源码
 
 A股回测KDJ策略:
 
-![KDJ](pytrader/doc/04.kdj_with_macd/Figure_kdj.png)
+![KDJ](https://raw.githubusercontent.com/UFund-Me/Qbot/main/pytrader/doc/04.kdj_with_macd/Figure_kdj.png)
     
 ![image](https://github.com/UFund-Me/Qbot/assets/29084184/ef8e945b-59d6-4220-87e3-08ec1196cc2c)
 
-👉 点击[查看](pytrader/doc/04.kdj_with_macd/kdj.py)源码
+👉 点击[查看](https://github.com/UFund-Me/Qbot/blob/main/pytrader/doc/04.kdj_with_macd/kdj.py)源码
 
 A股回测 KDJ+MACD 策略:
 
-![KDJ with MACD](pytrader/doc/04.kdj_with_macd/Figure_kdj_with_macd.png)
+![KDJ with MACD](https://raw.githubusercontent.com/UFund-Me/Qbot/main/pytrader/doc/04.kdj_with_macd/Figure_kdj_with_macd.png)
 
 ![image](https://github.com/UFund-Me/Qbot/assets/29084184/67338ec5-a6b1-4aa7-9792-1a2c61f353da)
 
-👉 点击[查看](pytrader/doc/04.kdj_with_macd/kdj_macd.py)源码
+👉 点击[查看](https://github.com/UFund-Me/Qbot/blob/main/pytrader/doc/04.kdj_with_macd/kdj_macd.py)源码
 ## TODO
 
 - [ ] 很多策略需要做回测验证；
